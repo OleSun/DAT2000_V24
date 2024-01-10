@@ -10,7 +10,7 @@ dotenv.load_dotenv("db.env")
 CONNSTR = os.getenv("CONNSTR")
 
 
-@pytest.fixture()
+#@pytest.fixture()
 def engine():
     engine = create_engine(CONNSTR)
     return engine
