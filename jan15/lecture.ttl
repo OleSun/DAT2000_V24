@@ -15,3 +15,7 @@ ex:Fido1 a pets:Dog .
 ex:Fido2 a pets:Dog . 
 ex:Fido1 rdfs:label "Fido".
 ex:Fido2 rdfs:label "Fido".
+ex:Lucy rdfs:label "Lucy"
+ex:Lucy rdfs:label "John"
+ex:Lucy rdfs:label "Garfield"
+ex:Lucy rdfs:label "Nemo"
